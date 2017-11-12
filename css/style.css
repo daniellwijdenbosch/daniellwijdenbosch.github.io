@@ -879,7 +879,7 @@ ul.major-icons li .icon:before {
     margin: 0;
     font-family: BebasNeue;
     margin-top: 5%;
-    font-size: 100px;
+    font-size: 6rem;
 }
 #header .inner {
     -moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
