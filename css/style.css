@@ -1,5 +1,12 @@
 /* Very specific styling */
 
+@media only screen and (max-width: 480px) {
+    iframe {
+        width: 50% !important;
+        height: 50% !important;
+        display:block !important;
+    }
+}
 #hidden > div.owl-carousel.owl-theme.owl-loaded.owl-drag > div.owl-stage-outer > div > div.owl-item.active > div > h3 > img {
     height: 25%;
     width: 25%;
