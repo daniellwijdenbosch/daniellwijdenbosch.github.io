@@ -6,12 +6,12 @@
         height: 50% !important;
     }
     #link2 {
-        width: 50% !important;
-        height: 50% !important;
+        width: 30% !important;
+        height: 30% !important;
     }
     #link3 {
-        width: 50% !important;
-        height: 50% !important;
+        width: 30% !important;
+        height: 30% !important;
     }
 }
 #hidden > div.owl-carousel.owl-theme.owl-loaded.owl-drag > div.owl-stage-outer > div > div.owl-item.active > div > h3 > img {
