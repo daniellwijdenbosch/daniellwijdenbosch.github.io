@@ -170,7 +170,7 @@ $(document).ready(function() {
     })
 });
 $(function() {
-    var message = "I miss you :(";
+    var message = "3D Origami | Miss you :(";
     var original;
     $(window).focus(function() {
         if (original) {
