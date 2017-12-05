@@ -25,11 +25,11 @@
 }
 #hidden1 > h2:nth-child(3) > p {
     font-size: 60%;
-    text-align: center;
+    text-align: left;
 }
 #hidden2 > h2:nth-child(3) > p {
     font-size: 60%;
-    text-align: center;
+    text-align: left;
 }
 #hidden1 > h2:nth-child(2) > a {
     color: #4fa49a;
@@ -43,11 +43,11 @@
     color: white;
 }
 #hidden h2 {
-    text-align: center;
+    text-align: left;
     color: white;
 }
 #hidden h3 {
-    text-align: center;
+    text-align: left;
     color: white;
 }
 #hidden {
@@ -59,7 +59,7 @@
     width: 100%;
     left: 0px;
     top: 0px;
-    text-align: center;
+    text-align: left;
 }
 .close1 {
     position: absolute;
@@ -69,7 +69,7 @@
     cursor: pointer;
     width: 30px;
     height: 30px;
-    text-align: center;
+    text-align: left;
     line-height: 30px;
 }
 .close {
@@ -80,7 +80,7 @@
     cursor: pointer;
     width: 30px;
     height: 30px;
-    text-align: center;
+    text-align: left;
     line-height: 30px;
 }
 .close2 {
@@ -91,7 +91,7 @@
     cursor: pointer;
     width: 30px;
     height: 30px;
-    text-align: center;
+    text-align: left;
     line-height: 30px;
 }
 #hidden1 {
@@ -103,7 +103,7 @@
     width: 100%;
     left: 0px;
     top: 0px;
-    text-align: center;
+    text-align: left;
 }
 #hidden2 {
     z-index: 9999;
@@ -114,7 +114,7 @@
     width: 100%;
     left: 0px;
     top: 0px;
-    text-align: center;
+    text-align: left;
 }
 #hidden1 h1 {
     font-family: BebasNeue;
@@ -122,7 +122,7 @@
     color: white;
 }
 #hidden1 h2 {
-    text-align: center;
+    text-align: left;
     color: white;
 }
 #hidden2 h1 {
@@ -131,7 +131,7 @@
     color: white;
 }
 #hidden2 h2 {
-    text-align: center;
+    text-align: left;
     color: white;
 }
 #two > div > header > div > div > div:nth-child(2) > img {
@@ -223,7 +223,7 @@
 }
 #two > div > header > div > h1 {
     color: white;
-    text-align: center
+    text-align: left
 }
 #header > div.inner {
     margin-top: -5%;
@@ -336,8 +336,8 @@ nav ul {
 }
 nav ul li {
     flex-basis: 20%;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
     height: 100%;
     transform: translateY(-100%);
 }
@@ -351,7 +351,7 @@ nav li a {
     letter-spacing: 4px;
     text-decoration: none;
     display: block;
-    text-align: center;
+    text-align: left;
     font-size: 0.9rem;
 }
 nav li a:after {
@@ -614,7 +614,7 @@ nav li:nth-of-type(5) {
     z-index: 9999;
     width: 32px;
     height: 32px;
-    text-align: center;
+    text-align: left;
     line-height: 30px;
     background-color: rgba(255, 255, 255, 0.5);
     color: #444;
@@ -635,7 +635,7 @@ nav li:nth-of-type(5) {
     height: 2000px;
 }
 #two > div > header > div > h2 {
-    text-align: center;
+    text-align: left;
 }
 #two > div > header > div > h2 > img {
     opacity: 0.8;
@@ -650,7 +650,7 @@ nav li:nth-of-type(5) {
     width: 30%;
 }
 #two > div > header > h2 {
-    text-align: center;
+    text-align: left;
     font-size: 1.5rem;
     margin-top: 10%;
     font-family: Brandon;
@@ -666,29 +666,29 @@ nav li:nth-of-type(5) {
     opacity: 1;
 }
 #two > div > p {
-    text-align: center;
+    text-align: left;
 }
 #three > div > header > h2 {
-    text-align: center;
+    text-align: left;
 }
 #three > div > p {
-    text-align: center;
+    text-align: left;
 }
 #three > div > div > div:nth-child(1) > span {
-    text-align: center;
+    text-align: left;
 }
 #three > div > header > h2 {
     font-family: BebasNeue;
     font-size: 2em;
 }
 #three > div > div > div:nth-child(1) > p {
-    text-align: center;
+    text-align: left;
 }
 #three > div > div > div:nth-child(2) > p {
-    text-align: center;
+    text-align: left;
 }
 #three > div > div > div.\34 u\24.\31 2u\24 \28 medium\29 > p {
-    text-align: center;
+    text-align: left;
 }
 #three > div > div > div:nth-child(1) > h3 {
     font-family: BebasNeue;
@@ -721,12 +721,12 @@ nav li:nth-of-type(5) {
     opacity: 0.5;
 }
 #four > div > header > h2 {
-    text-align: center;
+    text-align: left;
     font-family: BebasNeue;
     font-size: 2em;
 }
 #four > div > p {
-    text-align: center;
+    text-align: left;
 }
 #four > div > p > a > i {
     font-size: 2em;
@@ -1001,7 +1001,7 @@ h3 {
     line-height: 1.5em;
 }
 section.special {
-    text-align: center;
+    text-align: left;
 }
 header.major {
     margin: 0 0 1em 0;
@@ -1108,7 +1108,7 @@ ul.major-icons {
 ul.major-icons li {
     display: inline-block;
     padding: 2.5em;
-    text-align: center;
+    text-align: left;
 }
 ul.major-icons li .icon {
     -moz-transform: rotate(45deg);
@@ -1121,7 +1121,7 @@ ul.major-icons li .icon {
     height: 8em;
     line-height: 8em;
     margin: 0;
-    text-align: center;
+    text-align: left;
     width: 8em;
 }
 ul.major-icons li .icon:before {
@@ -1165,11 +1165,11 @@ ul.major-icons li .icon:before {
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed, fixed, fixed;
     background-image: url(../images/overlay2.png), url(../images/overlay3.svg), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
-    background-position: top left, center center, center center;
+    background-position: top left, left left, left left;
     background-size: auto, cover, cover;
     overflow: hidden;
     position: relative;
-    text-align: center;
+    text-align: left;
     height: 95vh;
 }
 #header a {
@@ -1286,9 +1286,9 @@ ul.major-icons li .icon:before {
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed, fixed, fixed;
     background-image: url(../images/overlay2.png), url(../images/overlay4.svg), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
-    background-position: top left, center center, center center;
+    background-position: top left, left left, left left;
     background-size: auto, cover, cover;
-    text-align: center;
+    text-align: left;
 }
 #footer a {
     border-bottom-color: rgba(255, 255, 255, 0.5);
@@ -1379,10 +1379,10 @@ ul.major-icons li .icon:before {
         padding: 5em 3em 5em 3em;
     }
     #one {
-        text-align: center;
+        text-align: left;
     }
     #two {
-        text-align: center;
+        text-align: left;
     }
 }
 @media screen and (max-width: 736px) {
