@@ -14,7 +14,7 @@
         height: 30% !important;
     }
     .overlay-navigation {
-    	height: 95vh !important;
+        height: 95vh !important;
     }
 }
 #hidden > div.owl-carousel.owl-theme.owl-loaded.owl-drag > div.owl-stage-outer > div > div.owl-item.active > div > h3 > img {
@@ -1296,6 +1296,7 @@ ul.major-icons li .icon:before {
     background-image: url(../images/overlay2.png), url(../images/overlay4.svg), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-position: top center, center center, center center;
 =======
     background-position: top left, center center, center center;
@@ -1303,6 +1304,9 @@ ul.major-icons li .icon:before {
 =======
     background-position: top left, center center, center center;
 >>>>>>> parent of ec4b585... Left align
+=======
+    background-position: top center, center center, center center    background-position: top left, center center, center center;
+>>>>>>> 009c40ace61b38babd6b86023e3ae17a6f1f5dde
     background-size: auto, cover, cover;
     text-align: center;
 }
