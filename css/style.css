@@ -1165,19 +1165,10 @@ ul.major-icons li .icon:before {
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed, fixed, fixed;
     background-image: url(../images/overlay2.png), url(../images/overlay3.svg), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-position: top center, center center, center center;
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
     background-size: auto, cover, cover;
     overflow: hidden;
     position: relative;
@@ -1298,23 +1289,11 @@ ul.major-icons li .icon:before {
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed, fixed, fixed;
     background-image: url(../images/overlay2.png), url(../images/overlay4.svg), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-position: top center, center center, center center;
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
-=======
     background-position: top center, center center, center center    background-position: top left, center center, center center;
->>>>>>> 009c40ace61b38babd6b86023e3ae17a6f1f5dde
-=======
     background-position: top left, center center, center center;
->>>>>>> parent of ec4b585... Left align
     background-size: auto, cover, cover;
     text-align: center;
 }
